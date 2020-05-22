@@ -28,11 +28,15 @@ You may have heard of the [replication crisis](https://en.wikipedia.org/wiki/Rep
 
 ### 1.6. Third party add-ons
 
-GitHub has connexions to a lot of third party platforms to do all kinds of things. I can sync my GitHub with Overleaf to work on my manuscripts in LaTeX (more on this later), but also activate Travis or Codecov on my repository to make sure my program is working.
+GitHub has connexions to a lot of third party platforms to do all kinds of things. I can sync my GitHub with Overleaf to work on my manuscripts in LaTeX (more on this later), but also activate Travis or Codecov on my repository to make sure my program is working (same, see relevant section).
 
 ### 1.7. When to not use GitHub
 
 Unfortunately the storage limit within a repository is 1Gb, which makes GitHub not suitable for storing large databases used in some studies. GitHub is therefore reserved for code, analysis output and manuscripts mainly. For databases, see the relevant section.
+
+### 1.8. Alternatives
+
+Similar platforms exist: [Bitbucket](https://bitbucket.org/) and [GitLab](https://about.gitlab.com/) for example.
 
 ## 2. Units of work -- what goes into a repository?
 
